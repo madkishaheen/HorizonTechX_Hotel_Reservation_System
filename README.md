@@ -48,7 +48,7 @@ HotelReservationSystem/
 - Demonstrates Object-Oriented Programming concepts
 - Uses Java classes, objects, methods, and collections
 
-##Open the Project
+## Open the Project
 
 Open the HotelReservationSystem folder in VS Code or any Java IDE.
 
